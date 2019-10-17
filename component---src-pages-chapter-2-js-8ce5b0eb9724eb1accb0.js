@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{244:function(e,n,a){"use strict";a.r(n),a.d(n,"query",(function(){return u}));var t=a(0),r=a.n(t),l=a(242);n.default=function(e){e.data.banner;return r.a.createElement(r.a.Fragment,null,r.a.createElement(l.d,null),r.a.createElement(l.a,null,r.a.createElement(l.e,null,"Chapter Two"),r.a.createElement("h1",null,"Out of the Pan")))};var u="3310726551"}}]);
+//# sourceMappingURL=component---src-pages-chapter-2-js-8ce5b0eb9724eb1accb0.js.map
